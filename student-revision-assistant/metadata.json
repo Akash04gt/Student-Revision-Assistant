@@ -1,0 +1,6 @@
+{
+  "name": "STUDENT REVISION ASSISTANT",
+  "description": "A RAG-powered study platform that scrapes documentation or repositories to help students revise and test their knowledge.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
